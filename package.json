@@ -16,6 +16,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@sadia786/calculator-simple": "^4.3.9",
     "inquirer": "^9.2.22"
   },
   "devDependencies": {
